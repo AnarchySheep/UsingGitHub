@@ -1,3 +1,5 @@
+## [GithubDesktop](https://desktop.github.com/).
+
 ## UsingGitHub
 Just a run down for people who are new or need a refresher
 
@@ -9,4 +11,4 @@ Just a run down for people who are new or need a refresher
   <img src="featuresandbranching.png">
 </p>
 
-[GithubDesktop](https://desktop.github.com/).
+
